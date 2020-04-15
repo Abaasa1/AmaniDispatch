@@ -1,0 +1,17 @@
+// JavaScript Document
+
+app.controller("homeController",function($scope, $http, $state){
+	//variables
+	
+	
+	//functions
+	
+	
+	
+	
+	//init
+	
+	
+	
+	
+	})
